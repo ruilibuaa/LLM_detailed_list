@@ -1,5 +1,3 @@
-# LLM_detailed_list
-The detailed list of the Large Language Model 
 
 ```
 🕙 分享是一种美德，右上随手点个 🌟 Star，谢谢
